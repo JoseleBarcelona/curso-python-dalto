@@ -9,5 +9,5 @@ def secuencia_fibonacci(number):
             lista_fibonacci.append(b)
             a,b = b, a+b
 
-resultado = secuencia_fibonacci(54)
+resultado = secuencia_fibonacci(21)
 print(resultado)
