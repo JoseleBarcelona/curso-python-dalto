@@ -1,0 +1,3 @@
+Buenos días, esto es un texto para hacer pruebas de lectura con python
+Esta es una segunda linea
+Y ahora escribimos la tercera linea
